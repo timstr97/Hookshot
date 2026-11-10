@@ -167,7 +167,8 @@ with `--update <game folder>`.
   earlier Linux build is moved there once). `--user <folder>` puts them somewhere else ([command line
   arguments](#running-the-game-from-the-command-line)).
   To carry on with a save from an emulator (Lichii, Eglantine, Orchid, ...) or NX2navi, or to take yours there, see
-  [using a save from an emulator](docs/saves.md).
+  [using a save from an emulator](docs/saves.md). To play the same save on two PCs, keeping it in a private GitHub
+  repository of your own, see [the same save on two PCs](docs/cloud-saves.md).
 - To uninstall, delete the game folder, the builder's folder and the shortcuts.
 
 ### If something goes wrong

@@ -8,6 +8,9 @@ your Hookshot save to one of them, at the same spot: nothing is converted, the f
 You need your own copy of the game. Nothing here
 comes with game files.
 
+To keep one save on two PCs instead of copying it between programs, see [the same save on two PCs](cloud-saves.md):
+`scripts/oot_cloud.py` keeps it in a private GitHub repository of your own.
+
 ## The files
 
 Every one of them keeps one folder per user profile, holding:
